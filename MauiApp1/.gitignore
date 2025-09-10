@@ -1,0 +1,37 @@
+# Pliki u¿ytkownika / VS
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output
+bin/
+obj/
+Debug/
+Release/
+
+# Dane mobilne
+*.apk
+*.aab
+*.ipa
+
+# Cache / konfiguracja
+*.db
+*.db-shm
+*.db-wal
+*.log
+
+# Konfiguracje prywatne
+.env
+secrets.json
+
+# Rider / JetBrains
+.idea/
+*.iml
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
