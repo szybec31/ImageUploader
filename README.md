@@ -23,6 +23,8 @@ cd ImageUploader
 dotnet restore
 ```
 ## Struktura Projektu
+
+```
 ImageUploader/
 ├── Models/
 │   └── SmbServer.cs
@@ -34,3 +36,4 @@ ImageUploader/
 │   ├── ServersPage.xaml
 │   └── ServersPage.xaml.cs
 └── MauiProgram.cs
+```
